@@ -1,0 +1,34 @@
+Ljubljulianna	01 02	B0107C9-C T N B
+Damn-It-All	01 03	C405000-8 T N B
+ElUqsor		01 05	C200667-5 T N B
+Zotral		01 09	E588512-3 T N B
+Djorun		02 03	E462421-4 T N B
+Mal-Kask	02 08	C886420-5 T N B
+Mal-Tranx	02 09	D858721-3 T N B
+Hradec-Kralove	02 10	E425200-5 T N B
+Nangat-Parban	03 02	B558621-7 T N B
+Mal-Drur	03 07	B783925-8 T N B
+DiasXVIII	03 08	C534420-6 T N B
+Mal-Phlo	03 10	X956420-1 T N B
+Mal-Gnar-Tranx	04 07	X477020-1 T N B
+Mal-Gnar-Krusk	04 09	E967749-E T N B
+Cast-LaVieja	04 10	C600667-5 T N B
+Llandrindod	05 03	B440110-7 T N B
+Cast-LaNueva	05 05	B0107C9-5 T N B
+Nine-Hells	05 08	E588512-3 T N B
+Kazar-dVargr	06 01	D674656-5 T N B
+Mal-Gnar	06 02	A864727-C T N B
+Mal-Krusk	06 04	B654420-6 T N B
+Mal-Phulk	06 07	D956524-6 T N B
+Mal-Phon	06 09	X865625-4 T N B
+ElMaghred-al	07 03	X894579-0 T N B
+Quintet		07 05	D6A4656-3 T N B
+Zhuvastou	07 06	E856532-3 T N B
+Mal-Tlal	07 07	D654420-5 T N B
+Corps-a-corps	07 09	B558621-7 T N B
+Vrel-dVargr	08 01	C766120-8 T N B
+Tindals-Shade	08 07	C867872-6 T N B
+Refnars-Mon	08 08	B888787-5 T N B
+Mal-Quun	08 09	B765720-8 T N B
+
+

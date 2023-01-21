@@ -1,0 +1,17 @@
+Homestead  	01 05 D560250-6 T G B
+Ace      	01 09 E7A08B9-5 T N B
+Salif    	02 06 A6236A6-A T G B
+Number-One 	02 08 C9C6778-7 T G B
+Thebus    	03 09 B534320-6 T G B 
+Noricum    	04 08 D8867BB-1 T G B
+Oghma     	04 10 B214754-9 T G B
+Dolberg    	05 03 BAC889D-B T N B 
+Vume     	05 05 B100477-C T G B
+Theev     	05 06 A434500-F T G B
+Marduk    	05 10 C377436-3 T G B
+Albe     	06 01 A540A98-E T G B
+Realgar  	06 03 B750444-A T G B
+Palindrome  	06 06 B433334-B T G B
+Borite    	06 09 E655796-4 T G B
+Chalchiutlicu 	07 04 B76A787-7 T G B
+Cordillon   	08 01 C431210-C T G B

@@ -1,0 +1,29 @@
+Mal-Den		01 01	C687558-6 T N B
+Station-Four	01 05	C6A3664-7 T N B
+Gr-oller	01 06	B86A974-A T N B
+Pais-dMuerte	01 08	D443969-8 T N B
+Grenour-OmIX	02 05	B898322-9 T N B
+Simba		02 06	CA9A777-6 T N B
+Garfield-Stat	02 08	E556A96-9 T N B
+Codominium-BIV	03 02	B5605A9-9 T N B
+Murv		03 05	C976321-4 T N B
+HoelleVII	04 02	A99A744-A T N B
+Miracle		04 04	B92A5A9-9 T N B
+Sdravstoycha	04 05	C654520-8 T N B
+0-5-Phast	04 07	D562003-6 T N B
+Tessla		05 03	C6R4000-0 T N B
+Darabghird	05 04	E643560-5 T N B
+Barton		05 05	B7655FF-9 T N B
+Ralf		05 08	X322300-1 T N B
+Hezar-Mun	06 02	D22389B-5 T N B
+Alhazred	06 03	A996701-9 T N B
+Aslani-i	06 05	B867872-A T N B
+Khur-be-Tesh	06 08	D846330-5 T N B
+Boeing		07 07	AAAA8BE-C T N B
+Khatai		07 08	C100400-9 T N B
+Caravanserai	08 03	A987440-A T N B
+Sevenohfurr	08 05	B704922-8 T N B
+Larimoor	08 06	B976731-8 T N B
+Latakia		08 10	B669732-7 T N B
+
+

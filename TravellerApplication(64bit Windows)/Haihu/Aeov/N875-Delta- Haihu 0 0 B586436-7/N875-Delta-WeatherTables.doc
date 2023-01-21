@@ -1,0 +1,270 @@
+	Weather Tables
+
+Roll Modifiers
+	Day	2	Night	-10	Summer/Winter +/-	0
+
+Roll 2d6 per 12 hours adding above modifiers. If the roll is an natural 2 or less add another weather effect...If the roll is natural 12 or more remove oldest weather and if there is no weather then it is clearelse weather stays the same
+Temperature change
+Freezing -4d6c change
+Cold -2d6c change
+Warm +2d6c change
+Hot +4d6c change
+Boiling +6d6c change
+Weather Strength
+Clear 0 strength
+Mild +1d3 strength
+Light +1d6 strength
+Heavy +2d6 strength
+Violent +3d6 strength
+Extremly Violent +4d6 strength
+Wind +1d6 strength
+Storm +1d6 strength
+Eletrical Storm +2d6 strength
+Magnetic Storm +3d6 strength
+Sand +1d6 strength
+Mud +1d6 strength
+Rain +1d6 strength
+Ice +2d6 strength
+Rocks +2d6 strength
+Glass +3d6 strength
+Acid +4d6 strength
+Visability
+Fog 1d6-strength m visable
+Mist 2d6-strength m visable
+Rain 3d6-strength m visable
+Snow 2d6-strength m visable
+Dust 1d6-strength m visable
+Sand -strength m visable
+Ice -strength m visable
+Mud -strength m visable
+Gas -strength m visable
+Acid -strength m visable
+
+High Arctic Latitude 0 Average Temperature -16.8922119140625C
+Roll 0	Freezing Dust  Storm
+Roll 1	Cold Mist  Storm
+Roll 2	Freezing Dust  Storm
+Roll 3	Heavy  Mist  Wind
+Roll 4	Heavy  Dust  Wind
+Roll 5	Mild  Dust  Wind
+Roll 6	Cold Clear
+Roll 7	Heavy  Rain 
+Roll 8	Freezing Clear
+Roll 9	Heavy  Mist  Wind
+Roll 10	Mild  Dust  Wind
+Roll 11	Cold Dust  Storm
+Roll 12	Freezing Dust  Storm
+Roll 13	Freezing Violent  Rain 
+Roll 14	Freezing Mild  Dust 
+Roll 15	Freezing Heavy  Rain 
+
+
+Arctic Latitude 1 Average Temperature -13.302734375C
+Roll 0	Cold Mist  Storm
+Roll 1	Freezing Sand  Storm
+Roll 2	Freezing Dust  Storm
+Roll 3	Mild  Dust  Wind
+Roll 4	Mild  Dust  Wind
+Roll 5	Heavy  Dust  Wind
+Roll 6	Heavy  Rain 
+Roll 7	Freezing Clear
+Roll 8	Freezing Clear
+Roll 9	Heavy  Dust  Wind
+Roll 10	Heavy  Dust  Wind
+Roll 11	Freezing Dust  Storm
+Roll 12	Cold Dust  Storm
+Roll 13	Cold Mild  Dust 
+Roll 14	Freezing Heavy  Rain 
+Roll 15	Freezing Mild  Rain 
+
+
+Sub Arctic Latitude 2 Average Temperature -9.774688720703125C
+Roll 0	Warm Dust  Storm
+Roll 1	Cold Dust  Storm
+Roll 2	Cold Dust  Storm
+Roll 3	Mild  Mist  Wind
+Roll 4	Mild  Dust  Wind
+Roll 5	Light  Sand  Wind
+Roll 6	Warm Clear
+Roll 7	Freezing Clear
+Roll 8	Light  Rain 
+Roll 9	Heavy  Dust  Wind
+Roll 10	Mild  Dust  Wind
+Roll 11	Warm Dust  Storm
+Roll 12	Cold Sand  Storm
+Roll 13	Cold Mild  Dust 
+Roll 14	Cold Mild  Mist 
+Roll 15	Freezing Mild  Mist 
+
+
+Temperate Sub Arctic Latitude 3 Average Temperature -6.368408203125C
+Roll 0	Warm Dust  Storm
+Roll 1	Cold Dust  Storm
+Roll 2	Warm Dust  Storm
+Roll 3	Mild  Dust  Wind
+Roll 4	Light  Dust  Wind
+Roll 5	Light  Dust  Wind
+Roll 6	Cold Clear
+Roll 7	Cold Clear
+Roll 8	Cold Clear
+Roll 9	Mild  Sand  Wind
+Roll 10	Light  Dust  Wind
+Roll 11	Cold Dust  Storm
+Roll 12	Cold Dust  Storm
+Roll 13	Warm Light  Dust 
+Roll 14	Cold Mild  Mist 
+Roll 15	Warm Light  Dust 
+
+
+High Temperate Latitude 4 Average Temperature -3.1422119140625C
+Roll 0	Warm Dust  Storm
+Roll 1	Warm Dust  Storm
+Roll 2	Warm Dust  Storm
+Roll 3	Light  Dust  Wind
+Roll 4	Mild  Dust  Wind
+Roll 5	Mild  Dust  Wind
+Roll 6	Cold Clear
+Roll 7	Warm Clear
+Roll 8	Warm Clear
+Roll 9	Light  Dust  Wind
+Roll 10	Light  Dust  Wind
+Roll 11	Warm Dust  Storm
+Roll 12	Cold Dust  Storm
+Roll 13	Warm Mild  Mist 
+Roll 14	Warm Light  Mist 
+Roll 15	Warm Mild  Dust 
+
+
+Temperate Latitude 5 Average Temperature -0.151275634765625C
+Roll 0	Warm Dust  Storm
+Roll 1	Warm Dust  Storm
+Roll 2	Cold Electrical Storm
+Roll 3	Light  Dust  Wind
+Roll 4	Light  Dust  Wind
+Roll 5	Light  Dust  Wind
+Roll 6	Warm Clear
+Roll 7	Light Cold Rain 
+Roll 8	Cold Clear
+Roll 9	Light  Dust  Wind
+Roll 10	Light  Electrical Wind
+Roll 11	Warm Electrical Storm
+Roll 12	Warm Dust  Storm
+Roll 13	Hot Mild  Mist 
+Roll 14	Warm Light  Lightning
+Roll 15	Warm Light  Mist 
+
+
+Sub Temperate Latitude 6 Average Temperature 2.55322265625C
+Roll 0	Hot Dust  Storm
+Roll 1	Warm Electrical Storm
+Roll 2	Warm Electrical Storm
+Roll 3	Light  Electrical Wind
+Roll 4	Mild  Dust  Wind
+Roll 5	Light  Dust  Wind
+Roll 6	Light Warm Rain 
+Roll 7	Hot Clear
+Roll 8	Mild Hot Rain 
+Roll 9	Mild  Electrical Wind
+Roll 10	Light  Sand  Wind
+Roll 11	Hot Dust  Storm
+Roll 12	Warm Dust  Storm
+Roll 13	Warm Mild  Lightning
+Roll 14	Warm Light  Mist 
+Roll 15	Hot Mild  Mist 
+
+
+High Tropics Latitude 7 Average Temperature 4.925018310546875C
+Roll 0	Hot Electrical Storm
+Roll 1	Hot Sand  Storm
+Roll 2	Warm Electrical Storm
+Roll 3	Light  Electrical Wind
+Roll 4	Light  Dust  Wind
+Roll 5	Light  Sand  Wind
+Roll 6	Light Warm Rain 
+Roll 7	Light Warm Rain 
+Roll 8	Mild Hot Rain 
+Roll 9	Light  Dust  Wind
+Roll 10	Light  Dust  Wind
+Roll 11	Cold Electrical Storm
+Roll 12	Hot Electrical Storm
+Roll 13	Warm Light  Lightning
+Roll 14	Hot Mild  Lightning
+Roll 15	Hot Light  Lightning
+
+
+Tropics Latitude 8 Average Temperature 6.923492431640625C
+Roll 0	Hot Electrical Storm
+Roll 1	Hot Electrical Storm
+Roll 2	Hot Electrical Storm
+Roll 3	Mild  Electrical Wind
+Roll 4	Heavy  Sand  Wind
+Roll 5	Light  Electrical Wind
+Roll 6	Hot Clear
+Roll 7	Mild Warm Rain 
+Roll 8	Mild Hot Rain 
+Roll 9	Light  Electrical Wind
+Roll 10	Mild  Electrical Wind
+Roll 11	Hot Electrical Storm
+Roll 12	Hot Electrical Storm
+Roll 13	Hot Mild  Lightning
+Roll 14	Hot Mild  Lightning
+Roll 15	Warm Light  Lightning
+
+
+Sub Tropics Latitude 9 Average Temperature 8.51446533203125C
+Roll 0	Warm Electrical Storm
+Roll 1	Warm Electrical Storm
+Roll 2	Warm Electrical Storm
+Roll 3	Mild  Electrical Wind
+Roll 4	Light  Electrical Wind
+Roll 5	Mild  Electrical Wind
+Roll 6	Mild Hot Rain 
+Roll 7	Mild Hot Rain 
+Roll 8	Mild Hot Rain 
+Roll 9	Mild  Dust  Wind
+Roll 10	Mild  Electrical Wind
+Roll 11	Hot Electrical Storm
+Roll 12	Hot Electrical Storm
+Roll 13	Hot Light  Lightning
+Roll 14	Hot Mild  Lightning
+Roll 15	Hot Light  Lightning
+
+
+Equitorial Latitude 10 Average Temperature 9.670745849609375C
+Roll 0	Hot Electrical Storm
+Roll 1	Hot Electrical Storm
+Roll 2	Hot Electrical Storm
+Roll 3	Heavy  Electrical Wind
+Roll 4	Mild  Sand  Wind
+Roll 5	Heavy  Electrical Wind
+Roll 6	Heavy Hot Rain 
+Roll 7	Light Hot Rain 
+Roll 8	Mild Hot Rain 
+Roll 9	Heavy  Electrical Wind
+Roll 10	Mild  Electrical Wind
+Roll 11	Hot Electrical Storm
+Roll 12	Hot Electrical Storm
+Roll 13	Hot Mild  Lightning
+Roll 14	Hot Mild  Lightning
+Roll 15	Hot Heavy  Lightning
+
+
+Equator Latitude 11 Average Temperature 10.372528076171875C
+Roll 0	Hot Electrical Storm
+Roll 1	Hot Electrical Storm
+Roll 2	Hot Electrical Storm
+Roll 3	Mild  Electrical Wind
+Roll 4	Mild  Electrical Wind
+Roll 5	Mild  Electrical Wind
+Roll 6	Mild Hot Rain 
+Roll 7	Mild Hot Rain 
+Roll 8	Heavy Hot Rain 
+Roll 9	Heavy  Electrical Wind
+Roll 10	Mild  Electrical Wind
+Roll 11	Hot Electrical Storm
+Roll 12	Hot Electrical Storm
+Roll 13	Hot Mild  Lightning
+Roll 14	Hot Heavy  Lightning
+Roll 15	Hot Heavy  Lightning
+
+

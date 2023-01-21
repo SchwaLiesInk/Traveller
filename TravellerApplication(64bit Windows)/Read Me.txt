@@ -1,0 +1,10 @@
+TASA (c) Gerwyn Jones 2016 (Schwa Lies Ink) truth can be created...
+This software content is under Open Gaming Licence and The programming code is Under GNU Licence
+This software is free to use alter or distribute as long as no money is made from this transaction.
+It was written by Gerwyn Jones during 2015 to 2016 and TASA is a copyright there of under artistic Licence.
+Many Thanks to ORICLE Java One, GDW, FAR FUTURE, MARC MILLER, DIGEST GROUP PUBLICATIONS AND MONGOOSE PUBLISHING without which
+this software would not be possible, And a Special Thanks To Andrew Gill who helped in the process of 
+testing and building this software. All the stars, worlds, planets, ships, characters and animals are yours use them 
+well and in peace.
+Enjoy and Travel Safely...
+

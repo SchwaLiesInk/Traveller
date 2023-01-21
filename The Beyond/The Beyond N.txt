@@ -1,0 +1,22 @@
+Zydpharn	01 01	B764700-7 T N B
+Zydpedallion	01 02	B869700-8 T N B
+Reading-Gaol	02 04	A925032-A T N B
+Clanheim	02 09	B450561-9 T N B
+Zydmnar		03 01	A89A410-9 T N B
+Rock		03 04	C62698D-9 T N B
+S-ArcturusII	03 07	B1623F9-E T N B
+Hard-Place	03 10	BAA8700-9 T N B
+Shrine		05 02	E4641A0-0 T N B
+Hichmakani	05 05	A876320-A T N B
+Thessalae	05 10	C000160-8 T N B
+0-4-Surtan	06 03	EAAA651-8 T N B
+Amnesty		06 06	C987759-7 T N B
+Little-Harpe	06 07	E6643A0-8 T N B
+Cahokia		06 08	A7638FF-C T N B
+Bloodgard	07 03	A9A5642-A T N B
+Cziltang-Brone	07 05	B767400-9 T N B
+Shaft		07 09	A844495-9 T N B
+THX-1138	08 02	X633809-7 T N B
+Thule		08 05	C876270-5 T N B
+
+

@@ -1,0 +1,264 @@
+	Planet Wide Quirks 
+Thick Fur or Blubber, Gliders, Jumpeds, Boned, Flyers, Swimmers, Migration, 
+
+	Animal Quirks Fungal
+InfraVision, 4 Armoured Shell, Hides Food, Parasitic, 5 Sexes, Electrical, 
+
+	Animal Quirks Insect
+Echolocation, 1 Armoured Shell, Builds Nests, 10Limbs, Lay Eggs, 6 Tenticles, 
+
+	Animal Quirks Aquatic
+Echolocation, Communications, Hides Food, Slime, Lay Eggs, Squirt Acid, 
+
+	Animal Quirks Amphibian
+Wiskers, Camourflage, Nest Sack, Webbing, Males Gestate Young, Poison, 
+
+	Animal Quirks Reptile
+Blind, Camourflage, Burrows, Parasitic, Males Gestate Young, 4 Mandibles, 
+
+	Animal Quirks Avian
+InfraVision, 1 Armoured Shell, Nests In Trees, Slime, Lay Eggs, Squirt Acid, 
+
+	Animal Quirks Mammal
+Blind, Camourflage, Nest Sack, Slime, Males Gestate Young, Spikes, 
+
+	Large Sea
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 4d6 Aquatic Grazer 1d3 1d3 1d6+1 0 Horns 1d6
+3 5d6 Insect Intermittent 1d3+2 1d3 1d6+3 1 Thrasher 1d3+2
+4 5d6 Fungal Gatherer 2d6 1d3 2d6+3 2 Jaws 2d6
+5 6d6 Aquatic Eater 2d6+1 1d3 1d6 0 Jaws & Claws 2d6+2
+6 4d6 Avian Killer 2d6+3 1d3 2d6 3 Thrasher 2d6+2
+7 5d6 Insect Grazer 1d6+3 1d3 1d6+1 5 Stinger 2d6+2
+8 6d6 Aquatic Grazer 2d6 1d3 2d6+1 0 Jaws 2d6
+9 4d6 Aquatic Reducer 2d6 1d3 1d6+3 0 Stinger 2d6+1
+10 5d6 Aquatic Grazer 2d6+3 1d3 2d6+2 0 Jaws & Claws 2d6+2
+11 2d6 Aquatic Hijacker 2d6+1 1d3 2d6+3 0 Horns 2d6
+12 5d6 Fungal Killer 1d6 1d3 2d6+2 1 Thrasher 1d3+2
+
+
+	Small Sea
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 7d6 Fungal Hunter 1d3+1 1d3 1d6+2 5 Claws 1d6
+3 6d6 Aquatic Killer 1d6 1d3 1d3+1 0 Claws 1d6
+4 7d6 Avian Grazer 2d6 1d3 2d6 3 Claws 2d6
+5 3d6 Aquatic Hunter 1d6 1d3 2d6+3 0 Jaws & Claws 1d6+2
+6 5d6 Aquatic Hunter 2d6+1 1d3 2d6+2 0 Jaws 2d6
+7 3d6 Aquatic Gatherer 2d6+1 1d6+1 1d3+3 0 Teeth 2d3
+8 5d6 Amphibian Killer 1d6+1 1d3 1d3+1 0 Stinger 1d6+2
+9 5d6 Fungal Hunter 1d3 1d3 1d6+2 1 Stinger 1d6+2
+10 6d6 Insect Gatherer 2d6+3 1d3 2d6+3 4 Hooves 2d6
+11 3d6 Avian Grazer 1d6 1d3 1d6+3 6 Thrasher 1d6+2
+12 6d6 Aquatic Gatherer 1d3 1d3 2d6+3 0 Thrasher 1d3+2
+
+
+	Lake
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 7d6 Aquatic Grazer 1d3 1d3 1d6+3 0 Thrasher 1d3+2
+3 6d6 Amphibian Grazer 2d6 1d3 1d3+2 0 Hooves 2d6
+4 7d6 Amphibian Trapper 2d6 1d3 1d6+2 0 Stinger 2d6+1
+5 4d6 Aquatic Grazer 1d3+1 1d3 1d6 0 Thrasher 1d3+2
+6 6d6 Fungal Pouncer 1d6+3 1d3 1d3 6 Teeth 1d3
+7 4d6 Fungal Chaser 1d3+1 1d3 1d6+3 5 Thrasher 1d3+2
+8 6d6 Amphibian Hunter 2d6 1d3 1d6+2 0 Claws 2d6
+9 6d6 Aquatic Intermittent 2d6 1d3 2d6+3 0 Stinger 2d6+2
+10 6d6 Aquatic Hunter 1d6+1 1d3 1d3+2 0 Thrasher 1d3+2
+11 5d6 Insect Hunter 1d6+1 1d3 1d6+1 5 Horns 1d6
+12 8d6 Amphibian Hijacker 1d3 1d3 1d6 0 Claws 1d6
+
+
+	Pool or Sea Shore
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 8d6 Reptile Grazer 1d3+2 1d3 1d3 0 Jaws & Claws 1d6+2
+3 7d6 Insect Carrian Eater 1d3 1d3 1d3+3 2 Horns 1d6
+4 6d6 Amphibian Killer 2d6 1d3 1d3+2 0 Teeth 2d3
+5 8d6 Fungal Hunter 1d3 1d3 1d3 5 Horns 1d6
+6 8d6 Insect Chaser 1d3+3 1d3 1d6+1 5 Horns 1d6
+7 8d6 Amphibian Killer 1d3+3 1d3 1d3+1 0 Claws 1d6
+8 6d6 Amphibian Gatherer 1d3 1d3 1d3+3 0 Stinger 1d6+1
+9 5d6 Insect Grazer 1d3 1d3 1d3+3 6 Horns 1d6
+10 6d6 Fungal Grazer 1d6+3 1d3 1d3 1 Claws 1d6
+11 6d6 Insect Gatherer 1d3 1d3 2d6+1 4 Hooves 1d6
+12 6d6 Reptile Hunter 1d6+2 1d3 1d3+3 0 Thrasher 1d3+2
+
+
+	Desert
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 2d6 Mammal Eater 2d6 1d6+2 2d6+3 6 Claws 3d6+2
+3 1d3 Mammal Intermittent 2d6+2 1d3+1 2d6 6 Stinger 4d6+1
+4 2d6 Mammal Intermittent 1d6+2 2d6+1 1d6+3 7 Thrasher 1d6+3
+5 1d3 Mammal Grazer 2d6+2 1d3+1 2d6+1 6 Stinger 4d6+1
+6 3d6 Mammal Hunter 1d3+2 1d3 2d6+2 6 Claws 2d6+2
+7 0d0+1 Mammal Trapper 2d6 1d6+2 2d6+2 6 Claws 4d6+1
+8 2d6 Mammal Intermittent 1d6+1 1d6+2 1d6+3 7 Jaws & Claws 3d6
+9 2d6 Mammal Filter 1d6+3 1d3+3 2d6 6 Jaws & Claws 3d6
+10 0d0+1 Mammal Killer 2d6+3 2d6+1 1d6+3 7 Thrasher 2d6+3
+11 2d6 Mammal Eater 2d6+2 1d3+2 2d6+3 6 Claws 4d6+1
+12 2d6 Mammal Intermittent 2d6 2d6 1d6+1 7 Stinger 3d6+2
+
+
+	Jungle
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 6d6 Fungal Grazer 1d3 1d3 1d3 1 Hooves 1d6
+3 8d6 Amphibian Hunter 1d6+1 1d3 1d3 0 Jaws 1d6
+4 6d6 Insect Grazer 1d3+3 1d3 1d6+2 1 Horns 1d6
+5 6d6 Amphibian Carrian Eater 1d3 1d3 1d3 0 Jaws 1d6
+6 6d6 Insect Grazer 1d3+2 1d3 1d3 4 Thrasher 1d3+2
+7 7d6 Insect Eater 1d3 1d3 1d3 2 Stinger 1d6+1
+8 7d6 Amphibian Killer 1d6+2 1d3 1d3 0 Thrasher 1d3+2
+9 4d6 Insect Siren 1d3+2 1d3 1d3+2 6 Claws 1d6
+10 6d6 Reptile Intermittent 1d3 1d3+2 1d3 0 Horns 1d6
+11 6d6 Amphibian Intermittent 1d3 1d3 1d6 0 Claws 1d6
+12 7d6 Insect Pouncer 1d3+1 1d3 1d3 2 Teeth 1d3
+
+
+	Forest or Woods
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 0d0+1 Mammal Filter 1d6+3 1d6 2d6+3 7 Teeth 3d6+2
+3 1d6 Mammal Filter 2d6+2 1d6+3 2d6+3 7 Stinger 3d6+2
+4 0d0+1 Mammal Carrian Eater 2d6+3 2d6+2 2d6+3 7 Stinger 3d6+2
+5 2d6 Mammal Reducer 2d6+3 2d6+2 2d6+3 7 Claws 3d6+2
+6 1d6 Mammal Intimidator 2d6+2 2d6+3 2d6+3 7 Thrasher 2d6+2
+7 0d0+1 Mammal Eater 2d6+3 2d6+3 2d6+2 7 Thrasher 2d6+2
+8 0d0+1 Mammal Hunter 2d6+3 1d3+3 2d6+3 7 Teeth 3d6+2
+9 1d3 Mammal Filter 2d6+3 1d3 2d6+3 7 Teeth 4d6+2
+10 1d6 Mammal Filter 2d6+3 1d6+1 2d6+3 7 Thrasher 2d6+3
+11 0d0+1 Mammal Filter 2d6 1d6+2 2d6+3 7 Stinger 3d6+2
+12 0d0+1 Mammal Filter 2d6+3 1d6+3 1d6+2 8 Jaws & Claws 4d6
+
+
+	Plains
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 6d6 Amphibian Intermittent 1d6+1 1d3 1d3 0 Thrasher 1d3+2
+3 5d6 Amphibian Chaser 1d3+1 1d3 1d3 0 Teeth 1d3
+4 7d6 Amphibian Intermittent 1d3 1d3 1d3 0 Teeth 1d3
+5 8d6 Reptile Gatherer 1d6+3 1d3 1d3+2 0 Jaws & Claws 1d6+2
+6 7d6 Amphibian Intermittent 1d3+3 1d3 1d6+1 0 Jaws 1d6
+7 6d6 Amphibian Gatherer 1d6+1 1d3 1d3+1 0 Hooves 1d6
+8 9d6 Insect Filter 1d6+1 1d3 1d3 4 Horns 1d6
+9 8d6 Insect Intermittent 1d3+3 1d3 1d3 2 Horns 1d6
+10 8d6 Insect Siren 1d3+1 1d3 1d3 6 Thrasher 1d3+2
+11 6d6 Amphibian Pouncer 1d3 1d3 1d3+1 0 Stinger 1d6+1
+12 6d6 Insect Trapper 1d3 1d3 1d3 5 Teeth 1d3
+
+
+	Hills
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 4d6 Reptile Hijacker 2d6 1d3 1d6+3 1 Jaws & Claws 2d6+2
+3 5d6 Mammal Intermittent 1d6 1d3 1d6 1 Jaws & Claws 1d6+2
+4 5d6 Mammal Carrian Eater 1d6+2 1d3 1d3+3 1 Thrasher 1d6+2
+5 4d6 Mammal Eater 2d6 1d3 1d6+2 1 Thrasher 2d6+2
+6 3d6 Mammal Intermittent 1d6 1d3+2 2d6+1 0 Thrasher 1d3+2
+7 4d6 Amphibian Intimidator 2d6+2 1d3 2d6 0 Thrasher 2d6+2
+8 3d6 Mammal Grazer 2d6+3 1d3 2d6+3 0 Stinger 2d6+1
+9 5d6 Avian Grazer 1d6+3 1d3 1d6 2 Thrasher 1d6+2
+10 4d6 Mammal Intermittent 1d6+1 1d3+3 1d3 1 Thrasher 1d6+2
+11 5d6 Mammal Eater 1d3+2 1d3 1d6+3 1 Thrasher 1d6+2
+12 3d6 Mammal Hunter 2d6+3 1d3 1d6+2 1 Thrasher 2d6+2
+
+
+	Mountains
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 0d0+1 Mammal Filter 2d6+3 1d6+3 2d6+3 6 Jaws & Claws 4d6
+3 1d6 Mammal Intermittent 2d6+3 1d3 2d6+3 6 Teeth 4d6+2
+4 1d3 Mammal Filter 2d6+3 1d3+3 2d6+3 6 Teeth 3d6+2
+5 0d0+1 Mammal Eater 2d6+3 1d3+2 2d6+2 6 Stinger 3d6+2
+6 0d0+1 Mammal Filter 2d6+1 2d6 2d6+3 6 Thrasher 2d6+2
+7 1d3 Mammal Intimidator 1d6+2 1d3+3 2d6+3 6 Jaws & Claws 3d6
+8 2d6 Mammal Filter 2d6+2 1d6+3 2d6+3 6 Thrasher 2d6+3
+9 0d0+1 Mammal Reducer 2d6+3 1d3+2 2d6+3 6 Stinger 3d6+2
+10 2d6 Mammal Killer 2d6+3 1d6 2d6+3 6 Teeth 3d6+2
+11 1d3 Mammal Pouncer 2d6+3 1d3 2d6+3 6 Stinger 4d6+1
+12 2d6 Mammal Intimidator 2d6+3 1d6 2d6+3 6 Teeth 4d6+2
+
+
+	Valley
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 4d6 Amphibian Intimidator 2d6+3 1d3 2d6+3 0 Thrasher 2d3+2
+3 4d6 Insect Grazer 1d3+2 1d3 2d6+3 1 Thrasher 1d6+2
+4 3d6 Mammal Carrian Eater 2d6+3 1d3 1d6+3 0 Stinger 2d6+1
+5 6d6 Insect Grazer 1d3+1 1d3+1 2d6 3 Thrasher 1d3+2
+6 4d6 Avian Intermittent 2d6+3 1d3 1d6+1 4 Thrasher 2d3+2
+7 5d6 Mammal Killer 1d6+2 1d3 2d6+2 0 Stinger 1d6+1
+8 3d6 Reptile Killer 2d6+3 1d3 2d6+3 0 Jaws & Claws 2d6+2
+9 7d6 Mammal Grazer 1d3+2 1d3 1d3 0 Thrasher 1d6+2
+10 5d6 Mammal Grazer 1d3+2 1d3+1 2d6+3 0 Stinger 1d6+1
+11 3d6 Mammal Hunter 1d6+2 1d3 2d6+3 0 Stinger 1d6+2
+12 3d6 Mammal Intermittent 1d6+1 1d3 1d6+3 0 Stinger 1d6+1
+
+
+	River
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 4d6 Reptile Hunter 1d3 1d3 1d6+1 1 Claws 1d6
+3 5d6 Mammal Hunter 2d6+3 1d3 2d6+3 0 Hooves 2d6
+4 4d6 Mammal Intermittent 2d6+1 1d3 1d3+1 1 Thrasher 2d6+2
+5 3d6 Amphibian Hunter 2d6+3 1d3 1d6 1 Stinger 2d6+1
+6 3d6 Mammal Trapper 1d6+1 1d3 1d6+3 1 Stinger 1d6+2
+7 4d6 Reptile Grazer 1d3+3 1d3 2d6+3 0 Stinger 2d6+2
+8 4d6 Mammal Hunter 2d6+3 1d3 2d6+3 0 Jaws & Claws 2d6+2
+9 4d6 Insect Grazer 2d6 1d3 1d6+3 6 Thrasher 2d6+2
+10 6d6 Reptile Gatherer 2d6+2 1d3 2d6+2 0 Stinger 2d6+1
+11 5d6 Mammal Hunter 1d3 1d3+2 1d6 1 Claws 1d6
+12 2d6 Avian Grazer 2d6+3 1d3 2d6+3 1 Stinger 2d6+2
+
+
+	Swamp
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 1d6 Mammal Intermittent 1d6+3 1d3 2d6 1 Jaws & Claws 2d6+2
+3 4d6 Mammal Intermittent 2d6+2 1d3 2d6+3 1 Thrasher 2d6+2
+4 2d6 Insect Intimidator 2d6+3 1d3 2d6+3 4 Teeth 3d6+2
+5 5d6 Mammal Intermittent 2d6+3 1d3 2d6+3 1 Stinger 2d6+1
+6 3d6 Mammal Grazer 2d6+3 1d3 2d6+3 1 Teeth 3d6+2
+7 2d6 Mammal Eater 2d6+3 1d3 2d6+3 1 Stinger 2d6+1
+8 4d6 Mammal Intermittent 2d6+3 1d3 2d6+3 1 Thrasher 2d6+2
+9 1d6 Insect Intermittent 2d6+3 1d3 2d6+3 5 Jaws 2d6
+10 3d6 Avian Eater 2d6+3 1d3 2d6+3 6 Teeth 3d6+2
+11 3d6 Insect Intermittent 1d6+2 1d3 2d6+3 7 Thrasher 1d6+2
+12 5d6 Mammal Intermittent 2d6+3 1d3 2d6+3 1 Jaws & Claws 2d6+2
+
+
+	Tundra
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 3d6 Mammal Killer 2d6+2 1d3+1 2d6+3 6 Thrasher 2d6+3
+3 0d0+1 Mammal Intermittent 2d6+3 1d3 2d6+3 6 Stinger 3d6+2
+4 0d0+1 Mammal Intermittent 2d6+1 1d3+1 2d6+3 6 Thrasher 2d6+3
+5 3d6 Mammal Intermittent 2d6+3 1d3 2d6+3 6 Thrasher 2d6+2
+6 2d6 Mammal Hunter 2d6+3 1d3 2d6+3 6 Jaws & Claws 4d6
+7 1d3 Mammal Hunter 2d6+3 1d3 2d6+1 6 Jaws & Claws 4d6
+8 0d0+1 Mammal Intermittent 2d6+3 1d3 2d6+3 6 Stinger 4d6+1
+9 0d0+1 Mammal Eater 2d6+3 1d3 2d6+3 6 Thrasher 2d6+3
+10 2d6 Mammal Intermittent 2d6+3 1d3 2d6+3 6 Thrasher 2d6+3
+11 1d6 Mammal Hunter 2d6 1d3 2d6+3 6 Thrasher 2d6+2
+12 2d6 Mammal Grazer 2d6+3 1d3 2d6+3 6 Claws 4d6+1
+
+
+	Arctic
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 0d0+1 Mammal Eater 2d6+3 1d3 2d6+3 8 Claws 4d6+1
+3 0d0+1 Mammal Intimidator 2d6+3 1d6+2 2d6+3 8 Claws 4d6+1
+4 0d0+1 Mammal Intermittent 2d6+3 2d6 2d6+2 8 Body 2d2+1
+5 0d0+1 Mammal Intermittent 2d6+3 1d3+3 2d6+3 8 Jaws & Claws 4d6
+6 0d0+1 Mammal Hunter 2d6+3 1d6 2d6+3 8 Teeth 3d6+2
+7 0d0+1 Mammal Intimidator 2d6+3 1d3+3 2d6+3 8 Stinger 4d6+1
+8 2d6 Mammal Intermittent 2d6+3 1d6 2d6+3 8 Claws 4d6+1
+9 0d0+1 Mammal Reducer 2d6+3 1d3 2d6+3 8 Stinger 4d6+1
+10 0d0+1 Mammal Intermittent 2d6+3 1d6+2 2d6+3 8 Stinger 4d6+1
+11 1d3 Mammal Carrian Eater 2d6+3 2d6+1 2d6+3 8 Jaws & Claws 4d6
+12 1d3 Mammal Eater 2d6+3 1d6+1 2d6+3 8 Jaws & Claws 4d6
+
+
+	Sky
+Roll	Pack	Class	Behaviour	Str	Dex	End	Armour	Weapons	
+2 5d6 Avian Intermittent 1d3+1 1d3 1d6 7 Claws 2d6+2
+3 2d6 Avian Gatherer 1d3 1d3 1d3 8 Jaws & Claws 3d6
+4 3d6 Avian Intimidator 1d6+2 1d6 2d6+2 5 Claws 2d6+2
+5 4d6 Avian Pouncer 1d6 1d3 1d6 7 Claws 2d6+2
+6 3d6 Avian Eater 1d6+3 2d6+2 1d6+2 4 Thrasher 1d6+2
+7 2d6 Avian Killer 2d6+2 1d3+1 2d6+3 7 Stinger 3d6+2
+8 1d6 Avian Hijacker 2d6+3 1d6 1d3+1 7 Stinger 2d6+2
+9 3d6 Avian Hunter 2d6+1 1d3 1d6+2 5 Stinger 2d6+1
+10 3d6 Avian Intimidator 2d6+3 1d3 1d6+3 9 Stinger 2d6+1
+11 2d6 Avian Grazer 1d6+2 2d6+2 1d3+2 7 Stinger 1d6+1
+12 3d6 Avian Grazer 1d6+2 1d3 1d6+2 9 Claws 2d6+2
+
+

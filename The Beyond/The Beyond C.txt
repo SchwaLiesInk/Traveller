@@ -1,0 +1,32 @@
+Zaroq-NovaIX	01 01	B8C1987-8 T N B
+Liebeskinder	01 05	B000520-C T N B
+Feldherrnhalle	01 07	A373667-9 T N B
+Quatsch		01 08	A636435-A T N B
+Abwehr		01 09	A440575-9 T N B
+Beinbruch	02 02	C675204-6 T N B
+Alamo-Ismat	02 05	B795400-6 T N B
+Bundestag	02 06	A9031A6-E T N B
+Bierstube	02 08	D897200-6 T N B
+Tartakover	02 10	A560895-B T N B
+Gasthof		03 03	D403776-4 T N B
+Mansagt		03 04	C674100-9 T N B
+Ilse		03 05	E320433-8 T N B
+Oberprasident	03 08	A373113-B T N B
+Nietszche	03 09	C548668-6 T N B
+Ewig-Weibliche	04 01	EB67380-9 T N B
+Vierjahreszei	04 03	B34532F-8 T N B
+Liebeslied	04 06	A9873F0-B T N B
+Zeben		05 01	E100250-9 T N B
+Invert-Hanham	06 04	C51059D-3 T N B
+Beta-Centre	06 05	A987100-9 T N B
+Alpha-Mare	06 06	D9C3232-5 T N B
+511-DeltaXI	07 03	C652764-3 T N B
+Morphy		07 04	B543232-9 T N B
+Queen-Maud's	07 05	B216499-A T N B
+Hel		07 10	B777300-9 T N B
+Alekhine	08 03	B9BA786-A T N B
+Macchu-Picchu	08 05	D731851-4 T N B
+Shequonur	08 09	B753460-A T N B
+Dernier-Cri	08 10	D766348-7 T N B
+
+

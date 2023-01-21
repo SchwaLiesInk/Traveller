@@ -1,0 +1,12 @@
+Mal-Jlan	01 02	B537AA8-7 T N B
+Dismal		01 09	B351687-9 T N B
+D-Cirith-Ungol	02 07	B486988-9 T N B
+Lesser-Dismal	02 09	A5D7597-8 T N B
+Mal-Zlim	03 02	E516578-8 T N B
+Normal		03 09	C8651FF-A T N B
+Northstar	04 09	D000000-G T N B
+Great-Dismal	04 10	A6D2675-B T N B
+Mal-Tlan	05 02	C834340-7 T N B
+Mal-Rift	06 01	X899947-5 T N B
+Mal-Thys	06 02	E87727A-4 T N B
+

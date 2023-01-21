@@ -1,0 +1,25 @@
+Yetinal		01 04	E878100-2 T N B
+Nuit-Rouge	01 07	A548200-4 T N B
+Hostel		02 05	A484110-5 T N B
+Trend		02 06	B562489-9 T N B
+11-Gamma-Chi	02 08	B844886-6 T N B
+Albazar		03 02	AAA9A2F-B T N B
+Novaks-Drift	03 05	A967435-9 T N B
+Gonzo		03 07	XB64000-2 T N B
+Eromnek		03 08	B4025A9-8 T N B
+D-Cephei-Base	04 02	B85232D-A T N B
+New-Luna	04 05	B866855-7 T N B
+Zydoqir		05 01	C8707A7-6 T N B
+Masada		05 08	A544206-9 T N B
+Refuge		05 09	A9668C7-A T N B
+Zydexnar	06 01	D987709-7 T N B
+Warwick		06 10	B776774-7 T N B
+Zydhaes		07 01	B533761-9 T N B
+Zydnubb		07 02	C9B7620-5 T N B
+Appropos	07 10	B976753-9 T N B
+Zydmaln		08 01	B8668C7-6 T N B
+Zydiquaryl	08 02	X7578B9-5 T N B
+Turricremata	08 04	A6687BF-C T N B
+Natchez		08 06	B660732-7 T N B
+Journeys-End	08 08	X000000-0 T N B
+

@@ -1,0 +1,31 @@
+Xerxes		01 01	C526375-9 T N B
+Caveat		01 03	E553566-7 T N B
+Godulas-Shrel	01 05	C876976-7 T N B
+Baden-em-Zee	01 06	E220676-8 T N B
+Zydanayl	01 09	B677524-7 T N B
+Maa-El		02 04	B434789-7 T N B
+Millers-Para	02 06	X566767-0 T N B
+Zydeterranal	02 09	B554634-9 T N B
+Yearning	03 04	C373100-A T N B
+Zydjabr		03 10	C6296BF-A T N B
+Refinnej	04 01	C4269B9-7 T N B
+Salle-dArmes	04 02	E686334-5 T N B
+Iainthell	04 03	D200657-9 T N B
+Aerhy		04 04	X200000-1 T N B
+Ktashisnif	04 05	D965879-4 T N B
+Dawn		05 01	E583889-2 T N B
+Paldoran	05 04	C763789-3 T N B
+Ouiqawah	05 05	C2002FF-9 T N B
+No-Hope		06 01	E9A7597-5 T N B
+La-Belle	06 03	A867540-8 T N B
+Wahls-Academy	06 05	A86A597-A T N B
+Nueva-Espana	07 01	X00079B-2 T N B
+San-Souci	07 02	B727879-9 T N B
+Zebulon		07 03	B664212-7 T N B
+I-Sred-Ni-hil	08 04	A767687-C T N B
+Gustavius	08 05	D522169-8 T N B
+D-Jean		08 06	C987300-7 T N B
+Mystere		08 07	D98A669-7 T N B
+I-Sred-Ni-Cl	08 08	A0004A7-C T N B
+
+

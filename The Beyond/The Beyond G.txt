@@ -1,0 +1,21 @@
+Dianalee	01 05	E868495-3 T N B
+Sigma-VII	01 06	C874330-7 T N B
+Port-Royal	01 08	D861789-6 T N B
+Dorothyellen	01 09	C865260-7 T N B
+Norn		02 02	D83598D-A T N B
+Rusty		02 04	C83B88B-8 T N B
+Caledonia	02 05	X88A789-1 T N B
+Silbe		02 06	B855879-6 T N B
+Morrowvia	02 09	E849474-3 T N B
+Pascal-Base	03 04	A873080-7 T N B
+Botany-Bay	03 05	C868663-3 T N B
+Phylliss-Sur	04 07	E863550-6 T N B
+Steinmetz	04 08	D846AAF-5 T N B
+Ultima		04 09	B83C360-B T N B
+Caribbea-Nueva	04 10	C84788B-7 T N B
+Revelation	05 06	A859120-E T N B
+Tanasi		05 07	C96685F-4 T N B
+Beriel		05 08	B837879-A T N B
+Quandary	05 09	E82A597-A T N B
+Shangri-La	07 01	A86779B-9 T N B
+

@@ -1,0 +1,1 @@
+Powershell -executionpolicy remotesigned -Command "java -jar TravellerApplication.jar"

@@ -1,0 +1,16 @@
+Candia 		02 01 D4006A9-4 T G B
+Kydde 		02 10 B644779-5 T G B
+Bantral 	03 06 C886589-9 T G B
+Kryslion 	04 02 D483AA9-9 T N B 
+Orsasch 	04 08 E241364-7 T G B
+Cyan 		05 02 C4689B9-B T N B
+Berengaria 	05 05 B566644-7 T G B
+Senlis 		05 08 B671633-A T N B
+Doradon 	06 02 A400369-B T N B
+Perrior 	06 03 A633966-B T N B
+Pax Rulin 	06 04 A402231-E T G B
+Rhysk 		07 04 E413730-3 T G B 
+Caraz 		07 06 E111959-A T G B 
+Magen 		07 09 C543550-9 T G B
+Islent 		08 02 BAC0789-6 T G B 
+Alexin 		08 05 B000420-C T N B

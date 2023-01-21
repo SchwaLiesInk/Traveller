@@ -1,0 +1,15 @@
+Byrni     	01 07 B955699-6 T G B
+Arunisiir   	02 01 B776530-6 T G B
+Tech-World  	02 04 A455154-F T N B
+Ergo     	02 05 X767500-0 T G B
+Tanith    	03 01 A589342-B T G B
+Acrid     	03 02 AAC1388-D T G B
+Inurin    	03 04 E668776-5 T N B
+Falcon    	03 05 A158448-D T G B
+Cordan    	04 01 A895347-9 T G B
+Exe      	04 03 B300101-A T G B
+Sperle    	04 04 BA8A76A-7 T N B
+Umemii   	05 01 C521877-6 T G B
+Argona    	05 03 B612586-9 T G B
+Villag    	06 09 B100634-8 T G B
+Browne    	06 10 B750A96-9 T G B   

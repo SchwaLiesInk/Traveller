@@ -1,0 +1,77 @@
+TASA Instructions 0.1Beta (By Gerwyn Jones)
+
+You will need A Traveller Rule Book (Preferably  Mongoose)
+Java 1.8 must be installed on your System
+Requires min of 2GB memory and A Graphics Card (Windows 7,8,10) or (a good Mac/Linux system)
+Warning->(There is no Copy And Paste Redo Undo Implemented Yet)
+
+Screen Convention 
+-----------------
+
+Left Mouse Button ->Selects
+
+Middle Mouse Button ->Deletes Selected Item
+
+Right Mouse Button ->Deselects
+
+Rotating Wheel -> Zooms (Only in Draw Star Ship Map)
+Rotating Wheel -> Move A->P or P->A (Only in Sector Selection Map)
+
+Holding Down Shift ->Moves Screen (Only in Draw Star Ship Map)
+
+Control -> Expands (Only in Draw Star Ship Map)
+
+W,A,S,D -> moves 3D Aspect (only in Probe or Produce Screens)
+
+Arrow Keys -> move 3D Camera (only in Probe or Produce Screens)
+
+File Convention 
+-----------------
+
+Files Are Exported as Text and HTML
+Images Are Exported as .PNG
+
+Files Are Saved in 4 formats
+
+.TSEC 	Sector Maps (Found in User Defined Folder)
+.TWF 	World Survey File Maps (Found in User Defined Folder)
+.TSF 	Ship Design File (Found in User Ships Folder)
+.TSM 	Ship Design Deck Plan Maps File (Found in User Ships Folder (if a Deck Plan is Saved))
+
+
+Sectors Are Imported from Text File (If Used)
+Sector.txt would contain the following directions
+
+Sector A.txt
+Sector B.txt
+Sector C.txt
+Sector D.txt
+Sector E.txt
+Sector F.txt
+Sector G.txt
+Sector H.txt
+Sector I.txt
+Sector J.txt
+Sector K.txt
+Sector L.txt
+Sector M.txt
+Sector N.txt
+Sector O.txt
+Sector P.txt
+
+in each sector file would contain the following format (Note no Spaces or Strange Symbols Allowed us - if you need Letter Space in World Name)
+example Binary.txt
+name of world	local	UWP	Temperature GGiants and Belts
+-------------------------------------------------------------
+
+Sarage    	05 08 B440523-C T G B 
+Auitawry   	07 10 A5668XA-F T G B
+
+	<-space must be added for the EOF of the end of the file
+
+NOTE
+----
+
+Mac and Linux Users please download Java SDK & NetBeans from Oricle to Compile for Your System...
+The Program Has Only Been Tested on Windows (7,8,10) and Linux (so far).
+Star Ship Deck Plans Have Not Been Fully Tested on Larger Than 300 Tons...
